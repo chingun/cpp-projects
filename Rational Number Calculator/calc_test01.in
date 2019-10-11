@@ -1,0 +1,45 @@
+1 2 / p c
+0 2 / p c
+2 1 / p c
+3 n 2 n / p c
+2 n 3 n * p c
+2 n 4 n / p
+c
+4 n 2 n / p
+c
+3 2 n / p
+c
+1 2 / 1 2 / + a
+c
+1 2 / 2 4 / - a
+c
+100000 100000 / d a d a d a d a d a d a d a d a d a d * * * * * * * * * * a
+c
+1 2 3 r a / a 
+c
+1 2 3 4 / a / a / a
+c
+1 2 / 3 4 / + a
+c
+1 2 / 3 4 / -  a
+c
+4 1 / 0 1000000 / d d d d d d d d d + + + + + + + + + +  a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
